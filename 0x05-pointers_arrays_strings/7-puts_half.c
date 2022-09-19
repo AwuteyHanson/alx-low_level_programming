@@ -2,7 +2,7 @@
 
 /**
  * puts_half - prints half a string.
- * 
+ *
  * @str: pointer
  */
 
